@@ -4,8 +4,8 @@
 # 3/21/24
 # Struggled a lot and got a lot of help through discord.
 
-# Peer Reviewer:
-# Peer Review:
+# Peer Reviewer:Aidan Younathan
+# Peer Review: The site looks good and everything but the search works(My end) the random works, but I tested it on vercel and it worked, I know you put a lot of work into this, good job!
 
 # Getting Started with Create React App
 
